@@ -6,7 +6,7 @@ I'm @Debabrata-palit. Welcome to my GitHub profile!
 
 > About Me
 >
-💬 Have a deep interest in Data Science
+💬 Have a deep interest in Data Science  
 📫 How to reach me: debabratapalit98@gmail.com
 
 > 🔬 My expertise lies in:  
