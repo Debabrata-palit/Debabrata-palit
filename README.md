@@ -2,11 +2,7 @@
 
 🙌 I'm @Debabrata-palit. Welcome to my GitHub profile!  
 🌱 I’m continuously learning and expanding my skill set, exploring new algorithms, tools, and methodologies to stay at the forefront of the ever-evolving field of data science.  
-🚀 You can find some of my work right here on GitHub.
-
-> About Me
->
-💬 Have a deep interest in Data Science  
+🚀 You can find some of my work right here on GitHub.  
 📫 How to reach me: debabratapalit98@gmail.com
 
 > 🔬 My expertise lies in:  
