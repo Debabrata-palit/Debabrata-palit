@@ -3,7 +3,8 @@
 🙌 I'm @Debabrata-palit. Welcome to my GitHub profile!  
 🌱 I’m continuously learning and expanding my skill set, exploring new algorithms, tools, and methodologies to stay at the forefront of the ever-evolving field of data science.  
 🚀 You can find some of my work right here on GitHub.  
-📫 How to reach me: debabratapalit98@gmail.com
+📫 How to reach me: debabratapalit98@gmail.com  
+🤝 Let's Connect on [LinkedIn](https://www.linkedin.com/in/debabrata-palit03/)
 
 > 🔬 **My expertise lies in:**  
 - **Data Analysis:** I excel in exploring, cleaning, and analyzing data to uncover hidden trends and patterns.
@@ -14,6 +15,3 @@
 > **Technologies and Tools:** 
 
 Python | MySQL | MS Excel | Tableau | Power BI | MongoDB
-
-🤝 Let's Connect on [LinkedIn](https://www.linkedin.com/in/debabrata-palit03/)
-
