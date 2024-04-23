@@ -1,4 +1,4 @@
-<H1>Hi there! 👋</H1>
+<H3>Hi there! 👋</H3>
 
 I'm @Debabrata-palit. Welcome to my GitHub profile!  
 🌱 I’m continuously learning and expanding my skill set, exploring new algorithms, tools, and methodologies to stay at the forefront of the ever-evolving field of data science.  
