@@ -5,13 +5,13 @@
 🚀 You can find some of my work right here on GitHub.  
 📫 How to reach me: debabratapalit98@gmail.com
 
-> 🔬 My expertise lies in:  
+> 🔬 **My expertise lies in:**  
 - **Data Analysis:** I excel in exploring, cleaning, and analyzing data to uncover hidden trends and patterns.
 - **Machine Learning:** I have a strong background in building predictive models and deploying machine learning algorithms to solve real-world problems.
 - **Data Visualization:** I love telling stories with data using powerful visualization tools to communicate insights effectively.
 - **Statistical Analysis:** I have a solid understanding of statistical methods and techniques for hypothesis testing, regression analysis, and more.
 
-> Languages and Tools  
+> **Technologies and Tools:** 
 
 Python | MySQL | MS Excel | Tableau | Power BI | MongoDB
 
