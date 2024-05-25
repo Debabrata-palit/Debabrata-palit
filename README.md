@@ -10,7 +10,7 @@
 
 [<img src="https://github.com/Debabrata-palit/Debabrata-palit/assets/163582682/9a2c7308-faeb-4109-bc39-cc21a4639f7d" height=20> debabratapalit98@gmail.com](mailto:debabratapalit98@gmail.com)
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=20> linkedin.com/in/debabrata-palit03](https://www.linkedin.com/in/debabrata-palit03/)
+[<img src="https://github.com/Debabrata-palit/Debabrata-palit/assets/163582682/fe7c41bf-5c92-4fb5-87f9-fd37d8902445" height=20> linkedin.com/in/debabrata-palit03](https://www.linkedin.com/in/debabrata-palit03/)
 
 > 🔬 **My expertise lies in:**
 
