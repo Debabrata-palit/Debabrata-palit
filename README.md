@@ -8,7 +8,7 @@
 
 > 📫 **How to reach me:**
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) debabratapalit98@gmail.com](mailto:debabratapalit98@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=20> debabratapalit98@gmail.com](mailto:debabratapalit98@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) linkedin.com/in/debabrata-palit03](https://www.linkedin.com/in/debabrata-palit03/)
 
