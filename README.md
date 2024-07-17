@@ -2,7 +2,7 @@
 
 <H3>Welcome to my GitHub profile!</H3>
 
-🙌 I'm **@Debabrata-palit**.  
+🙌 I'm **Debabrata Palit**.  
 🌱 I’m continuously learning and expanding my skill set, exploring new algorithms, tools, and methodologies to stay at the forefront of the ever-evolving field of data science.  
 🚀 You can find some of my work right here on GitHub.
 
