@@ -3,7 +3,8 @@
 <H3>Welcome to my GitHub profile!</H3>
 
 🙌 I'm **Debabrata Palit**.  
-🌱 I’m continuously learning and expanding my skill set, exploring new algorithms, tools, and methodologies to stay at the forefront of the ever-evolving field of data science.  
+🌱 I’m continuously learning and expanding my skill set, exploring new algorithms, tools, and methodologies to stay at the forefront of the ever-evolving data-driven field. Highly motivated and detail-oriented. Skilled in developing and implementing data collection systems, identifying business needs, and creating predictive models that improve forecasting accuracy.  
+
 🚀 You can find some of my work right here on GitHub.
 
 > 📫 **How to reach me:**
