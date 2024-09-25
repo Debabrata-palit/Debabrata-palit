@@ -9,7 +9,7 @@
 > 📫 **How to reach me:**
 
 [<img src="https://github.com/Debabrata-palit/Debabrata-palit/assets/163582682/9a2c7308-faeb-4109-bc39-cc21a4639f7d" height=20> debabratapalit98@gmail.com](mailto:debabratapalit98@gmail.com)  
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">("https://www.linkedin.com/in/debabrata-palit03/")
+<a href="https://www.linkedin.com/in/debabrata-palit03/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
   
 > 🔬 **My expertise lies in:**
