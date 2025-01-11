@@ -13,7 +13,10 @@
 <a href="mailto:debabratapalit98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/debabrata-palit03/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-  
+> 📃 **Here is my Resume:**
+
+<a href="https://drive.google.com/file/d/1gqx4w5G9D3aeEsU3arFxMQ2fA7yLZ9tp/view?usp=drive_link">![Resume](https://img.shields.io/badge/My%20Resume-click%20here-blue)</a>
+
 > 🔬 **My expertise lies in:**
 
 - **Data Analysis:** I excel in exploring, cleaning, and analyzing data to uncover hidden trends and patterns.
