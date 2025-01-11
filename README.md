@@ -16,7 +16,7 @@
 > 📃 **Here is my Resume:**
 
 <a href="https://drive.google.com/file/d/1gqx4w5G9D3aeEsU3arFxMQ2fA7yLZ9tp/view?usp=drive_link">![Resume](https://img.shields.io/badge/My%20Resume-click%20here-blue)</a>
-![Resume](https://img.shields.io/badge/My_Resume-blue?style=for-the-badge&logo=resume&logoColor=white)
+![Resume](https://img.shields.io/badge/My_Resume-click_here-blue?style=for-the-badge&logo=resume&logoColor=white)
 
 > 🔬 **My expertise lies in:**
 
