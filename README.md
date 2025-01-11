@@ -8,9 +8,7 @@
 
 🚀 You can find some of my work right here on GitHub.
 
-> 📫 **How to reach me:**
-
-<a href="mailto:debabratapalit98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+> <a href="mailto:debabratapalit98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/debabrata-palit03/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 > <a href="https://drive.google.com/file/d/1gqx4w5G9D3aeEsU3arFxMQ2fA7yLZ9tp/view?usp=drive_link">![Resume](https://img.shields.io/badge/click_here_to_see-My_Resume-blue?style=for-the-badge&logo=resume&logoColor=white)</a>
