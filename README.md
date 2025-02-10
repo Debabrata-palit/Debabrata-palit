@@ -6,6 +6,8 @@
 🌱 I’m continuously learning and expanding my skill set, exploring new algorithms, tools, and methodologies to stay at the forefront of the ever-evolving data-driven field.  
 🎯 Highly motivated and detail-oriented. Skilled in developing and implementing data collection systems, identifying business needs, and creating predictive models that improve forecasting accuracy.  
 
+![1730300061594](https://github.com/user-attachments/assets/6213b759-df37-4dbf-8847-aa810b928f17)
+
 🚀 You can find some of my work right here on GitHub.
 
 <a href="mailto:debabratapalit98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
